@@ -28,7 +28,6 @@ data.results.forEach((cc) => {
     html += "</div>";
 
 
-
 });
 
 document.getElementById("dataAlbum").innerHTML = html; 
